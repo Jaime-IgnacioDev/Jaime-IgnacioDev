@@ -2,7 +2,7 @@
 Soy de Punta Arenas, Chile
 tengo 25 Años
 
-Estoy titulado en Tecnico Analista Programador
+Estoy titulado en Tecnico Analista Programador <br>
 y Actualmente cursando Ingenieria en Informatica
 
 
