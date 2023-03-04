@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola! Mi nombre es Jaime Quintul 👋
+Soy de Punta Arenas, Chile
+tengo 25 Años
+
+Estoy titulado en Tecnico Analista Programador
+y Actualmente cursando Ingenieria en Informatica
+
 
 <!--
 **Jaime-IgnacioDev/Jaime-IgnacioDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
