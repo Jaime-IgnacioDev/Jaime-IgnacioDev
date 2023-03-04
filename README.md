@@ -12,6 +12,9 @@
 
 <p align="center">Estoy especializandome en Desarrollo Web enfocado en el Front-End<br><br>Me encuentro cursando un curso en un programa que se llama<br>One Oracle Next Education Junto a Alura Latam</p>
 
+<p>Aqui puedes ingresar a <a href="https://jaime-ignaciodev.github.io/Portafolio-JaimeQuintul/#">mi portafolio</a>.</p>
+
+
 ###
 
 <div align="center">
