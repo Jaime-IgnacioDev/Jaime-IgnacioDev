@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A4aW55aW55aW55aW55aW55aW55aW55aW55aW55/qgQUGGACb7I6lUPKLu/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/qgQUGGACb7I6lUPKLu/giphy.gif" width="100" />
 </div>
 
 <h1 align="center">Hola, soy Jaime Quintul <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
@@ -13,7 +13,7 @@
 
 <div align="center">
   
-  Currently working on **Modern Web Development** & **IT Infrastructure**.
+  Actualmente trabajando en **Desarrollo Web Moderno** e **Infraestructura TI**.
   
   🔭 **Stack Principal:** React, TypeScript, Tailwind CSS
   🌱 **Aprendiendo:** Cloud Computing & Advanced DevOps
@@ -22,7 +22,7 @@
   <br/>
   
   <a href="https://jaime-ignaciodev.github.io/Portafolio-JaimeQuintul/#">
-    <img src="https://img.shields.io/badge/Ver_Mi_Portafolio-00F3FF?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=101010" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Ver_Mi_Portafolio-00F3FF?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=101010" alt="Portfolio" />
   </a>
 </div>
 
@@ -43,7 +43,7 @@
   <br/>
 
   <!-- Backend & Data -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -61,7 +61,7 @@
 
 <br/>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 Estadísticas de GitHub</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jaime-IgnacioDev&show_icons=true&theme=dracula&hide_border=true&bg_color=0a0a12&title_color=00f3ff&icon_color=bc13fe" height="180" alt="stats graph" />
